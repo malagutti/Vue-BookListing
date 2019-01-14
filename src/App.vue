@@ -2,12 +2,10 @@
   <div id="app">
     <img src="./assets/logo.png">
     <book-list></book-list>
-    <!-- <hello-world></hello-world> -->
   </div>
 </template>
 
 <script>
-// import HelloWorld from './components/HelloWorld';
 import BookList from './components/BookList';
 
 export default {
